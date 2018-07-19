@@ -1,6 +1,6 @@
 # Code for PubMed PICO Element Detection
 
-This is the code for PICO element detection introduced by *Jin, Di, and Peter Szolovits. "[PICO Element Detection in Medical Text via Long Short-Term Memory Neural Networks." Proceedings of the BioNLP 2018 workshop. 2018.](http://www.aclweb.org/anthology/W18-2308)*
+This is the code for PICO element detection introduced by *[Jin, Di, and Peter Szolovits. "PICO Element Detection in Medical Text via Long Short-Term Memory Neural Networks." Proceedings of the BioNLP 2018 workshop. 2018.](http://www.aclweb.org/anthology/W18-2308)*
 
 Abstract
 
